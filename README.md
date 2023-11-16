@@ -1,4 +1,4 @@
-<h1>Hi, I'm Emily! <br/><a href="https://github.com/emfish"> Novice Programmer</a>, <a href="https://www.linkedin.com/in/emilyfishkind/">Product Management Professional</a>, <a href="https://www.youtube.com/@efishkind)">YouTuber</a></h1>
+<h1>Hi, I'm Emily! <br/><a href="https://github.com/emfish"> Programmer</a>, <a href="https://www.linkedin.com/in/emilyfishkind/">Product Management Professional</a>, <a href="https://www.youtube.com/@efishkind)">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects Ideas:</h2>
 
